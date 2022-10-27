@@ -1,0 +1,27 @@
+* {
+    background-color: #2d545e;
+}
+
+.main1 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 0px;
+}
+
+div {
+    font-style: oblique;
+    padding-top: 10px;
+    word-spacing: 4px;
+    color: white;
+}
+
+input {
+
+    box-shadow: 2px 2px 4px rgba(0, 0, 0, 0.8), -2px -2px 4px rgba(0, 0, 0, 0.8);
+}
+
+#h {
+
+    text-shadow: 5px 5px 10px rgba(0, 0, 0, .8);
+}
